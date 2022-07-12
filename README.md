@@ -10,7 +10,7 @@ Releases of these software will be published and announced internally, via Teams
 
 Installation instructions are in [README_Microlution_Installation.md](https://github.com/gf-microlution/AppsTeam_Tools_Public/blob/main/README_Microlution_Installation.md)
 
-# Bub Reports & Feature Requests
+# Bug Reports & Feature Requests
 
 Anyone can submit an Issue for these tools. Please tag your issue with the tool name and bug/feature.
 
